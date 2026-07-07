@@ -1,0 +1,63 @@
+# Titanic Mini Data Visualization Dashboard
+
+## Project Description
+
+This project was completed as part of the Data Science with Python Internship – Task 4.
+
+The objective of the project is to perform data cleaning, feature engineering, exploratory data analysis, and data visualization using the Titanic dataset.
+
+## Dataset
+
+Titanic Dataset
+
+File used:
+
+titanic.csv
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Project Workflow
+
+1. Dataset Loading
+2. Dataset Exploration
+3. Missing Value Analysis
+4. Data Cleaning
+5. Feature Engineering
+6. Data Visualization
+7. Insight Generation
+8. Conclusion
+
+## Visualizations
+
+The project contains:
+
+- Age Distribution Histogram
+- Survival Rate by Gender
+- Survival Rate by Passenger Class
+- Fare Distribution Boxplot
+- Age vs Fare Scatterplot
+- Survival Rate by Age Group
+- Correlation Heatmap
+
+## How to Run
+
+1. Download the project files.
+
+2. Place `titanic.csv` and `titanic_dashboard.ipynb` in the same directory.
+
+3. Open Jupyter Notebook.
+
+4. Open `titanic_dashboard.ipynb`.
+
+5. Select `Kernel → Restart Kernel and Run All Cells`.
+
+## Author
+
+Akshaya R V
